@@ -1,1 +1,1 @@
-this repository for to-do list for daily task
+this repository for to-do list of daily task
