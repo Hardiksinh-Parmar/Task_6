@@ -1,0 +1,67 @@
+table, th, td {
+  border: 1px solid rgb(204, 165, 235);
+  border-collapse: collapse;
+  size: 137px;
+  margin: 32px 64px 36px 271px;
+  width: 601px;
+  height: 57px;
+}
+body {
+  display: block;
+  margin: 8px;
+  margin-top: 8px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  margin-left: 8px;
+}
+.box1 {
+  width: 202px;height: 43px;margin: -12px 6px -13px 144px;
+}
+input[type=text1], select {
+  width: 60%;
+  padding: 7px 24px;
+  margin: 16px 43px;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 4px;
+  box-sizing: content-box;
+}
+.ok {
+  background-color: rgb(3, 251, 69);
+  color: rgb(12, 12, 12);
+  border: 2px;
+  align-items: center;
+  padding: 15px 20px 15px 20px;
+  margin: 0px -115px 0px 110px;
+}
+.done {
+  background-color: rgb(3, 251, 69);
+  color: rgb(12, 12, 12);
+  border: 2px;
+  align-items: center;
+}
+.nd {
+  background-color: rgb(3, 251, 218);
+  color: rgb(12, 12, 12);
+  border: 2px;
+  align-items: center;
+}
+.delete {
+  background-color: rgb(251, 15, 3);
+  color: rgb(12, 12, 12);
+  border: 2px;
+  align-items: center;
+}
+.submit:hover{
+background-color: #4caf50;
+color:white;
+}
+
+
+.Add {
+  background-color: white;
+  cursor: pointer;
+  width: 100px;
+  height: 35px;
+  margin: -39px -24px -214px 275px;
+}
